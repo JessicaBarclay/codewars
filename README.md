@@ -1,6 +1,6 @@
-### Codewars
+## Codewars
 
 
-## Codewars Katas
+#### Codewars Katas
 
 *Written in Ruby and Javascript*
